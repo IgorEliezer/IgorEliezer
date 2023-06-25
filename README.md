@@ -1,5 +1,5 @@
 * Formado em arquitetura e urbanismo.
-* Pós-graduando (concluído) em Legislativo, Território e Gestão Democrática de Cidades.
+* Pós-graduado especialização em Legislativo, Território e Gestão Democrática de Cidades.
 * Autor e organizador da enciclopédia digital [Atlas de Laranjal Paulista](http://www.igoreliezer.com/atlaslp).
 * Mapeador OpenStreetMap e membro OpenStreetMap Foundation.
 * Atuação: construção civil, projeto executivo, planejamento urbano, cadastro urbano, mepeamento OpenStreetMap, geoprocessamento, apoio legislativo e ensino técnico-profissionalizante.
